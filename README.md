@@ -1,2 +1,1 @@
-# PROYECTO-PRO-C22
-TIRO CON ARCO EPICO 1
+# Plantilla-del-proyecto-C22
